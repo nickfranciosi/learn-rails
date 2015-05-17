@@ -46,5 +46,7 @@ end
 
 group :test do
   gem 'capybara', '~>2.1'
+
+  gem 'shoulda-matcher'
 end
 
